@@ -1,0 +1,36 @@
+baseURL = "http://falseprotagonist.me/blog"
+theme = "cocoa"
+languageCode = "en-us"
+title = "This is a False Protagonist"
+author = "Rinat Sabitov"
+
+[permalinks]
+fixed = ":title/"
+blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "more"
+weight                 = -110
+identifier             = "about"
+url                    = "https://falseprotagonist.me"
+
+[taxonomies]
+category               = "categories"
+tag                    = "tags"
+
+[params]
+author                 = "False Protagonist"
+description            = "This is a false protagonist!"
+cachebuster            = true
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+email                  = "rinat.sabitov@gmail.com"
+faviconfile            = "img/leaf.ico"
+highlightjs            = true
+lang                   = "en"
+# github                 = "//github.com/histrio"
+# linkedin               = "//linkedin.com/in/rinatsabitov"
+noshowreadtime         = true
+selfintro              = "I'm a python developer"
+# highlightjslanguages = ["go"] 
+# highlightjsStyle     = "darcula"
