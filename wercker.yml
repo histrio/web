@@ -18,6 +18,6 @@ deploy:
         packages: git ssh-client
     - keanemind/gh-pages@0.2.4:
         token: $GIT_TOKEN
-        domain: falseprotagonist.me
+        domain: www.falseprotagonist.me
         basedir: public
         repo: histrio/histrio.github.io
