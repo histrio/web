@@ -12,7 +12,7 @@ blog  = "blog/:slug/"
 name                   = "more"
 weight                 = -110
 identifier             = "about"
-url                    = "https://falseprotagonist.me"
+url                    = "https://www.falseprotagonist.me/cv"
 
 [taxonomies]
 category               = "categories"
