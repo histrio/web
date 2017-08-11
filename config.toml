@@ -14,7 +14,7 @@ blog  = "blog/:slug/"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "https://www.falseprotagonist.me/cv"
+    url = "/cv/"
     weight = 2
 [[menu.main]]
     name = "Categories"
