@@ -6,7 +6,7 @@ build:
     - script:
         name: download theme
         code: |
-            $(git clone https://github.com/nishanths/cocoa-hugo-theme ./themes/cocoa)
+            $(git clone https://github.com/yihui/hugo-xmin ./themes/xmin)
     - sigma/hugo-build@1.16.3:
         theme: cocoa
         flags: --buildDrafts=true
