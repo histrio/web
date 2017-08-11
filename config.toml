@@ -9,10 +9,25 @@ fixed = ":title/"
 blog  = "blog/:slug/"
 
 [[menu.main]]
-name                   = "more"
-weight                 = -110
-identifier             = "about"
-url                    = "https://www.falseprotagonist.me/cv"
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "https://www.falseprotagonist.me/cv"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
 
 [taxonomies]
 category               = "categories"
@@ -32,5 +47,6 @@ lang                   = "en"
 # linkedin               = "//linkedin.com/in/rinatsabitov"
 noshowreadtime         = true
 selfintro              = "I'm a python developer"
-# highlightjslanguages = ["go"] 
+# highlightjslanguages = ["go"]
 # highlightjsStyle     = "darcula"
+footer = "&copy; [FalseProtagonist](https://falseprotagonist.me) 2017"
