@@ -3,6 +3,11 @@ theme = "xmin"
 languageCode = "en-us"
 title = "This is a False Protagonist"
 author = "Rinat Sabitov"
+GitHubUser             = "histrio"
+defaultContentLanguage = "en"
+enableGitInfo          = true
+enableRobotsTXT        = true
+rssLimit               = 50
 
 [permalinks]
 fixed = ":title/"
@@ -44,6 +49,7 @@ faviconfile            = "img/leaf.ico"
 lang                   = "en"
 selfintro              = "I'm a python developer"
 footer = "&copy; [FalseProtagonist](https://falseprotagonist.me) 2017"
+
 # highlightjs            = true
 # github                 = "//github.com/histrio"
 # linkedin               = "//linkedin.com/in/rinatsabitov"
