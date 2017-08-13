@@ -2,7 +2,7 @@
 date = "2017-08-11T23:29:46+03:00"
 title = "List all tcp connections in windows"
 tags = ["snippets", "python", "windows"]
-draft: true
+draft = true
 
 +++
 
