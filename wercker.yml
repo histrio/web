@@ -10,7 +10,7 @@ build:
     - script:
         name: enchance a theme
         code: |
-            $(echo "{{ template "_internal/disqus.html" . }}" >> ./themes/xmin/layouts/partials/foot_custom.html)
+            $(echo '{{ template "_internal/disqus.html" . }}' >> ./themes/xmin/layouts/partials/foot_custom.html)
     - sigma/hugo-build@1.16.3:
         theme: xmin
         flags: --buildDrafts=true
