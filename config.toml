@@ -8,6 +8,7 @@ defaultContentLanguage = "en"
 enableGitInfo          = true
 enableRobotsTXT        = true
 rssLimit               = 50
+disqusShortname = "falseprotagonistme"
 
 [permalinks]
 fixed = ":title/"
