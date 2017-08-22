@@ -1,7 +1,9 @@
 baseURL = "http://www.falseprotagonist.me"
+# theme = "cocoa-eh"
 theme = "xmin"
+# theme = "minimo"
 languageCode = "en-us"
-title = "This is a False Protagonist"
+title = "False Protagonist"
 author = "Rinat Sabitov"
 GitHubUser             = "histrio"
 defaultContentLanguage = "en"
@@ -9,10 +11,30 @@ enableGitInfo          = true
 enableRobotsTXT        = true
 rssLimit               = 50
 disqusShortname = "falseprotagonistme"
+contentDir = "content"
 
 [permalinks]
-fixed = ":title/"
-blog  = "blog/:slug/"
+blog = "blog/:slug/"
+
+[taxonomies]
+category               = "categories"
+tag                    = "tags"
+
+[params]
+author                 = "Rinat Sabitov"
+# description            = "This is a false protagonist!"
+cachebuster            = true
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+email                  = "rinat.sabitov@gmail.com"
+faviconfile            = "img/leaf.ico"
+lang                   = "en"
+selfintro              = "I'm a python developer"
+footer = "&copy; [FalseProtagonist](https://falseprotagonist.me) 2017"
+showReadTime = false
+copyrightOwner = "FalseProgatonist"
+HideEntryNavigation = true
+logofile = "https://s3-eu-west-1.amazonaws.com/falseprotagonist-one/png.png"
 
 [[menu.main]]
     name = "Home"
@@ -20,7 +42,7 @@ blog  = "blog/:slug/"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "/cv/"
+    url = "/about/"
     weight = 2
 [[menu.main]]
     name = "Categories"
@@ -35,25 +57,14 @@ blog  = "blog/:slug/"
     url = "/index.xml"
 
 
-[taxonomies]
-category               = "categories"
-tag                    = "tags"
-
-[params]
-author                 = "False Protagonist"
-description            = "This is a false protagonist!"
-cachebuster            = true
-dateform               = "Jan 2, 2006"
-dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-email                  = "rinat.sabitov@gmail.com"
-faviconfile            = "img/leaf.ico"
-lang                   = "en"
-selfintro              = "I'm a python developer"
-footer = "&copy; [FalseProtagonist](https://falseprotagonist.me) 2017"
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
 
 # highlightjs            = true
 # github                 = "//github.com/histrio"
 # linkedin               = "//linkedin.com/in/rinatsabitov"
 # noshowreadtime         = true
-# highlightjslanguages = ["go"]
-# highlightjsStyle     = "darcula"
