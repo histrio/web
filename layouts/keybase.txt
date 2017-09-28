@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/histrio
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://falseprotagonist.me
+  * I am histrio (https://keybase.io/histrio) on keybase.
+  * I have a public key with fingerprint 8A98 93D4 B64B 480E 471D  BE57 1883 9067 D122 293D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010165ccbebcbeb853939e3c609122e437d70f357edde60e5c174f087d9b95858e810a",
+      "fingerprint": "8a9893d4b64b480e471dbe5718839067d122293d",
+      "host": "keybase.io",
+      "key_id": "18839067d122293d",
+      "kid": "010165ccbebcbeb853939e3c609122e437d70f357edde60e5c174f087d9b95858e810a",
+      "uid": "f7c47aac8011fc4b75e19ced30f8f919",
+      "username": "histrio"
+    },
+    "merkle_root": {
+      "ctime": 1506575730,
+      "hash_meta": "faa24271d69422c75f6119b671cd7cc9c209ba88ae317380d01fdba213e386a0",
+      "seqno": 1468913
+    },
+    "revoke": {
+      "sig_ids": [
+        "24ebaf97183e58080cd390fa0917979eb4e7e2ca495236052110164eeacf82490f"
+      ]
+    },
+    "service": {
+      "hostname": "falseprotagonist.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506575748,
+  "expire_in": 157680000,
+  "prev": "0668ff4403242989cb3d15ca144cee3ef7c57734f0efd4b300b591192dcc4f58",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtk3tsFUUUxm9rRcTwkCqCCpSlCtSm2cfszuylRAhIC4gUCkgL5HZ2dvZ2aXv3
+srtUKRQSoCVFLYUG2mJTo4ECtiVBI7Riy0UxlUdAwysCVUxAqgjeykMJtDjbQGKM
+f7rJZrMn3/nOOb85U9H/MV/fmKFrK4LfceMmxBz7RfNlHS/ZuILTLH0551/B5dHe
+D83XqeMG8kyd83O8wAuKTIhGNe9FsqRKKpWIwquCKFIgQR3yhiRDqutU4alMBAgM
+HkFd1VQZyYgigcdcMmeYoSC1w7YZcpktwipSJR1oCtAA4imAgq5RGQoISSqvQJ2Z
+i0zAEnMtx8tgzWnYoSmmxWLsJ9Db3n/o/+e+l/XaGZAAiDFBvCAYBGhQpoJKqC7x
+BjJUQfWEDrVDuIAyda7puDZrtDiZK6B2Xj4N2JblemyJa3oKQeYVGcpQ4tl82MkN
+FFAXe2UwFoHIWCgqEEUCZUMRBFVToEB0SIhKRF7VMEKYSgKUEK/zgqFrWBQkKiEF
+86wNhy4NWawCUJAqSKwDmxZaedQr7phBRs3h/As5EVANR4oNlRGXqIx4xBOdkTQw
+4wNVqFINUEhFgoEqi5LCy6LgEQWUYmIgETApt7jYK2cXmqTX3juohwAMnO/QsG25
+OGiFGIwUFk3mvIBFrHyPkOuGHb8HyF0e9jLeolrgoVdAM0M62xaWUUhtx7RCbBym
+/Bc7gJI5+nbYtGnA9BQyVBDPHq8OLfRWQFGQYQDAS4wpWzeiSbogEywAQCiVKDtT
+GUKJnTo12CZKPK/JKsMt6oQAQ0b/gMlM2SjMkyEMYXeZTbnifmWxUpwvpq9v+JBR
+cRuqK0/vm5E+IG1425uPbtjjsd718vV7ctCjSHHbIN/mAWO/npng7jqclHA1uy16
+LLWnZejvCfNq7gwsAZujd5o+C67fnVRfO/NG5e6ZPW7ZpPLxRSXHr3IVK5WGN2Z8
+P7+l8dezszvf69dySzwkXgp+GR0cqT67V+mGG8zOD1LjbydGjLIzTycuq/yqf+3+
+nB05lc9di/aBrzWv3rq87tyYP1Hl6ctVeO+A6aO3TfFv3Fd7oh2dWnQ7mBk8f/r9
+xKWO/1BBh/SgPeNAddrOPVOef3B0d0eTq+8CryqpIbi6rCYSc/236e9OW2KqyhD/
+0TObyV9jVt2dMTZ+h12VEXE3rmyPo+N6SsVrixI7sjtlf+2Vuy2+CVtW5f/cdSKS
+cmF0Q2ZOazAy+Tpes7hxTu7c8BNFs/sM3hlcuj/9w1mXiirq/Idbz+GxdYOO3J9b
+OvJCqHNSyYIFJGvbun3npw2bHe26u3JNbKzYfrFiYnb33vrDx3uujJlaerEj7aU5
+N8rvHXkqftSmaVEwrMpNbXrlx+tJGcUj4tLfmRXX8+zChJHm9trsoslLNkUut5oZ
+F+tGxo5Yd6286+Pmn3L4oqzwyaq1BU0Hnnmxuabi5Iq8wL1T6fObu6oz9K4d4fID
+tz6Klk5ImzhPIvXfDj1Rnzz1k5spIWt8/6T7L38B/qjuntOSuX1RzeeZg7f+0FjZ
+fbk+62af/C0Dv1n/QkFjzkQUQb49ja9vbZzXcOjKBffgpwf/Bg==
+=T5tS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/histrio
+
+==================================================================
