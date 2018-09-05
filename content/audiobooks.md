@@ -10,4 +10,11 @@ Here some audiobooks coverted into podcast via [rssbook](https://github.com/hist
 - [Ася Казанцева, В интернете кто-то не прав!](https://files.falseprotagonist.me/asya2/asya2.xml)
 - [Дэн Абнетт , Возвышение хоруса](https://files.falseprotagonist.me/Horus1/Horus1.xml)
 - [Стивен Эриксон, Малазанская «Книга Павших» 02, Врата Мёртвого Дома](https://files.falseprotagonist.me/malaz2/malaz2.xml)
+- [Antifragile](https://files.falseprotagonist.me/antifragile/antifragile.xml)
+- [Blindsight](https://files.falseprotagonist.me/blindsight/blindsight.xml)
+- [Поправка 22](https://files.falseprotagonist.me/catch22/catch22.xml)
+- [Точка обмана](https://files.falseprotagonist.me/point/point.xml)
+- [The Miracle of Self-Discipline](https://files.falseprotagonist.me/selfdiscipline/selfdiscipline.xml)
+- [Thinking, Fast and Slow](https://files.falseprotagonist.me/tjinking/tjinking.xml)
+- [Ключ из желтого металла](https://files.falseprotagonist.me/yellowkey/yellowkey.xml)
 
