@@ -6,11 +6,8 @@ type = "page"
 
 Here some audiobooks coverted into podcast via [rssbook](https://github.com/histrio/rssbook).
 
-- [Ерофеев В. В., "Москва-Петушки](https://s3-eu-west-1.amazonaws.com/falseprotagonist-one/erofeev/erofeev.xml)
-- [Neil Gaiman, American Gods](https://s3-eu-west-1.amazonaws.com/falseprotagonist-one/AmericanGods/AmericanGods.xml)
-- [Каку Мичио, Гиперпространство](https://s3-eu-west-1.amazonaws.com/falseprotagonist-one/Kaku_M_Giperprostranstvo_(Roslyakov_M)/Kaku_M_Giperprostranstvo_(Roslyakov_M).xml)
-- [Neal Stephenson, Cryptonomicon](https://s3-eu-west-1.amazonaws.com/falseprotagonist-one/Neal+Stephenson+-+Cryptonomicon+(2009)/Neal+Stephenson+-+Cryptonomicon+(2009).xml)
-- [The Girl with the Dragon Tattoo](https://s3-eu-west-1.amazonaws.com/falseprotagonist-one/Stieg+Larsson+-+The+Girl+with+the+Dragon+Tattoo/Stieg+Larsson+-+The+Girl+with+the+Dragon+Tattoo.xml)
-- [Очаровательный кишечник](https://s3-eu-west-1.amazonaws.com/falseprotagonist-one/belly/belly.xml)
-- [Ася Казанцева, Кто бы мог подумать!](http://files.falseprotagonist.me/asya3/asya3.xml)
-- [Ася Казанцева, В интернете кто-то не прав!](http://files.falseprotagonist.me/asya2/asya2.xml)
+- [Ася Казанцева, Кто бы мог подумать!](https://files.falseprotagonist.me/asya3/asya3.xml)
+- [Ася Казанцева, В интернете кто-то не прав!](https://files.falseprotagonist.me/asya2/asya2.xml)
+- [Дэн Абнетт , Возвышение хоруса](https://files.falseprotagonist.me/Horus1/Horus1.xml)
+- [Стивен Эриксон, Малазанская «Книга Павших» 02, Врата Мёртвого Дома](https://files.falseprotagonist.me/malaz2/malaz2.xml)
+
