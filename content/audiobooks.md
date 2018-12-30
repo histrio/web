@@ -18,4 +18,6 @@ Here some audiobooks coverted into podcast via [rssbook](https://github.com/hist
 - [Thinking, Fast and Slow](https://files.falseprotagonist.me/tjinking/tjinking.xml)
 - [Ключ из желтого металла](https://files.falseprotagonist.me/yellowkey/yellowkey.xml)
 - [Гиперион](http://files.falseprotagonist.me/giperion1/giperion1.xml)
-- [Падение Гипериона](http://files.falseprotagonist.me.s3.amazonaws.com/giperion2/giperion2.xml)
+- [Падение Гипериона](http://files.falseprotagonist.me/giperion2/giperion2.xml)
+- [Эндимион](http://files.falseprotagonist.me/endimion1/endimion1.xml)
+
