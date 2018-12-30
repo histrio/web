@@ -13,8 +13,6 @@ Here some audiobooks coverted into podcast via [rssbook](https://github.com/hist
 - [Antifragile](https://files.falseprotagonist.me/antifragile/antifragile.xml)
 - [Blindsight](https://files.falseprotagonist.me/blindsight/blindsight.xml)
 - [Поправка 22](https://files.falseprotagonist.me/catch22/catch22.xml)
-- [Точка обмана](https://files.falseprotagonist.me/point/point.xml)
-- [The Miracle of Self-Discipline](https://files.falseprotagonist.me/selfdiscipline/selfdiscipline.xml)
 - [Thinking, Fast and Slow](https://files.falseprotagonist.me/tjinking/tjinking.xml)
 - [Ключ из желтого металла](https://files.falseprotagonist.me/yellowkey/yellowkey.xml)
 - [Гиперион](http://files.falseprotagonist.me/giperion1/giperion1.xml)
