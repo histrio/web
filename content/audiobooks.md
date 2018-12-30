@@ -20,4 +20,5 @@ Here some audiobooks coverted into podcast via [rssbook](https://github.com/hist
 - [Гиперион](http://files.falseprotagonist.me/giperion1/giperion1.xml)
 - [Падение Гипериона](http://files.falseprotagonist.me/giperion2/giperion2.xml)
 - [Эндимион](http://files.falseprotagonist.me/endimion1/endimion1.xml)
+- [Восход Эндимиона](https://files.falseprotagonist.me/endimion2/endimion2.xml)
 
