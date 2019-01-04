@@ -21,3 +21,4 @@ Here some audiobooks coverted into podcast via [rssbook](https://github.com/hist
 - [Восход Эндимиона](https://files.falseprotagonist.me/endimion2/endimion2.xml)
 - [Сироты спирали](https://files.falseprotagonist.me/endimion3/endimion3.xml)
 - [The Subtle Art of Not Giving a Fuck](https://files.falseprotagonist.me/not_giving_a_fuck/not_giving_a_fuck.xml)
+- [Москва-Петушки](http://files.falseprotagonist.me/moskva_petushki/moskva_petushki.xml)
