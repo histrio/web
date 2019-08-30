@@ -6,7 +6,7 @@ build:
     - script:
         name: download theme
         code: |
-            $(git clone git@github.com:gkmngrgn/hugo-alageek-theme.git themes/alageek)
+            $(git clone https://github.com/gkmngrgn/hugo-alageek-theme.git themes/alageek)
     - sigma/hugo-build@1.16.3:
         theme: alageek
         flags: --buildDrafts=true
