@@ -1,6 +1,4 @@
 +++
-date = "2010-05-24T08:55:00+03:00"
-title = "About"
 comments = false
 +++
 

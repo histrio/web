@@ -1,70 +1,66 @@
-baseURL = "http://www.falseprotagonist.me"
-# theme = "cocoa-eh"
-theme = "xmin"
-# theme = "minimo"
+baseURL = "https://false.org.ru"
 languageCode = "en-us"
 title = "False Protagonist"
 author = "Rinat Sabitov"
-GitHubUser             = "histrio"
-defaultContentLanguage = "en"
-enableGitInfo          = true
-enableRobotsTXT        = true
-rssLimit               = 50
-disqusShortname = "falseprotagonistme"
-contentDir = "content"
+copyright = "© 2019 False Protagonist"
 
-[permalinks]
-blog = "blog/:slug/"
+canonifyurls = true
+paginate = 20
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+# pygmentsStyle = "b2"
+pygmentsStyle = "tango"
+# pygmentsOptions = "linenos=table"
 
-[taxonomies]
-category               = "categories"
-tag                    = "tags"
+disqusShortname = "false.org.ru"
+buildDrafts = true
+enableEmoji = true
+enableRobotsTXT = false
+
+theme = "alageek"
+
+# [[menu.main]]
+#     name = "GITHUB"
+#     weight = 1
+#     url = "//github.com/histrio"
+# [[menu.main]]
+#     name = "RSS"
+#     weight = 2
+#     url = "/index.xml"
 
 [params]
-author                 = "Rinat Sabitov"
-# description            = "This is a false protagonist!"
-cachebuster            = true
-dateform               = "Jan 2, 2006"
-dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-email                  = "rinat.sabitov@gmail.com"
-faviconfile            = "img/leaf.ico"
-lang                   = "en"
-selfintro              = "I'm a python developer"
-footer = "&copy; [FalseProtagonist](https://falseprotagonist.me) 2018"
-showReadTime = false
-copyrightOwner = "FalseProgatonist"
-HideEntryNavigation = true
-logofile = "https://s3-eu-west-1.amazonaws.com/falseprotagonist-one/png.png"
+enableRSS = true
+copyright = "© 2019 by Rinat Sabitov"
+copyrightUrl = "https://gokmengorgen.net"
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+latestpostcount = 2
+telegram = "histrio"
+github = "histrio"
 
+# [[params.best_posts]]
+# title = "Migrate to Hugo from Jekyll"
+# url = "/blog/migrate-from-jekyll/"
 
-[languages]
-  # edit this block for your own language
-  [languages.en]
-    lang = "en"
-    languageName = "English"
-    weight = 1
+[[menu.primary]]
+identifier = "code"
+name = "Code"
+url = "//github.com/histrio"
+weight = 10
 
-# highlightjs            = true
-# github                 = "//github.com/histrio"
-# linkedin               = "//linkedin.com/in/rinatsabitov"
-# noshowreadtime         = true
+[[menu.primary]]
+identifier = "posts"
+name = "Posts"
+url = "/blog"
+weight = 20
+
+[[menu.primary]]
+identifier = "cv"
+name = "CV"
+url = "/cv"
+weight = 30
+
+[[menu.secondary]]
+identifier = "bmc"
+name = "Buy me a coffee"
+url = "https://www.buymeacoffee.com/histrio"
+weight = 120
