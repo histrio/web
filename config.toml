@@ -12,34 +12,21 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "tango"
 # pygmentsOptions = "linenos=table"
 
-disqusShortname = "false.org.ru"
+disqusShortname = "false-org-ru"
 buildDrafts = true
 enableEmoji = true
 enableRobotsTXT = false
 
 theme = "alageek"
 
-# [[menu.main]]
-#     name = "GITHUB"
-#     weight = 1
-#     url = "//github.com/histrio"
-# [[menu.main]]
-#     name = "RSS"
-#     weight = 2
-#     url = "/index.xml"
-
 [params]
 enableRSS = true
 copyright = "© 2019 by Rinat Sabitov"
-copyrightUrl = "https://gokmengorgen.net"
+copyrightUrl = "https://false.org.ru"
 
 latestpostcount = 2
 telegram = "histrio"
 github = "histrio"
-
-# [[params.best_posts]]
-# title = "Migrate to Hugo from Jekyll"
-# url = "/blog/migrate-from-jekyll/"
 
 [[menu.primary]]
 identifier = "code"
