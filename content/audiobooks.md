@@ -20,6 +20,7 @@ Here some audiobooks coverted into podcast via [rssbook](https://github.com/hist
 - [Сироты спирали](https://files.falseprotagonist.me/endimion3/endimion3.xml)
 - [Москва-Петушки](http://files.falseprotagonist.me/moskva_petushki/moskva_petushki.xml)
 - [Миф. Греческие мифы в пересказе](http://files.falseprotagonist.me/mif/mif.xml)
+- [Александр_Панчин, Сумма_биотехнологии](https://files.falseprotagonist.me/panchin01/panchin01.xml)
 
 # En
 - [Antifragile](https://files.falseprotagonist.me/antifragile/antifragile.xml)
