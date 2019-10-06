@@ -21,9 +21,8 @@ Here some audiobooks coverted into podcast via [rssbook](https://github.com/hist
 - [Москва-Петушки](http://files.falseprotagonist.me/moskva_petushki/moskva_petushki.xml)
 - [Миф. Греческие мифы в пересказе](http://files.falseprotagonist.me/mif/mif.xml)
 - [Александр Панчин, Сумма биотехнологии](https://files.falseprotagonist.me/panchin01/panchin01.xml)
-
 - [Карен Армстронг, История Бога; 4000 лет исканий в иудаизме, христианстве и исламе](https://files.falseprotagonist.me/religion02/religion02.xml)
-- [Паскаль Буайе, Объясняя религию. Природа религиозного мышления](https://files.falseprotagonist.me/panchin01/panchin01.xml)
+- [Паскаль Буайе, Объясняя религию. Природа религиозного мышления](https://files.falseprotagonist.me/religion01/religion01.xml)
 
 # En
 - [Antifragile](https://files.falseprotagonist.me/antifragile/antifragile.xml)
