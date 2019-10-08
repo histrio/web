@@ -9,6 +9,7 @@ Here some audiobooks coverted into podcast via [rssbook](https://github.com/hist
 # Ru
 - [Ася Казанцева, Кто бы мог подумать!](https://files.falseprotagonist.me/asya3/asya3.xml)
 - [Ася Казанцева, В интернете кто-то не прав!](https://files.falseprotagonist.me/asya2/asya2.xml)
+- [Ася Казанцева, Мозг материален](https://files.falseprotagonist.me/asya4/asya4.xml)
 - [Дэн Абнетт , Возвышение хоруса](https://files.falseprotagonist.me/Horus1/Horus1.xml)
 - [Стивен Эриксон, Малазанская «Книга Павших» 02, Врата Мёртвого Дома](https://files.falseprotagonist.me/malaz2/malaz2.xml)
 - [Поправка 22](https://files.falseprotagonist.me/catch22/catch22.xml)
