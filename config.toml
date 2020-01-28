@@ -46,7 +46,7 @@ name = "CV"
 url = "/cv"
 weight = 30
 
-[[menu.secondary]]
+[[menu.primary]]
 identifier = "bmc"
 name = "Buy me a coffee"
 url = "https://www.buymeacoffee.com/histrio"
