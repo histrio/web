@@ -22,3 +22,10 @@ Hello :smile: :wave:
 [python-descript-ion](https://github.com/histrio/python-descript-ion) a simple library for `descript.ion` files manipulation
 
 [czfrq](https://github.com/histrio/czfrq) generates Akni deck with czech frequency dictionary
+
+
+# Some wasm experiments
+
+- 216 bytes wasm [animation](/wasm/demo01.html)
+
+- 5Kb wasm [animation](/wasm/demo02.html) with `std` included
