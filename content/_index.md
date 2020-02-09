@@ -23,8 +23,7 @@ Hello :smile: :wave:
 
 [czfrq](https://github.com/histrio/czfrq) generates Akni deck with czech frequency dictionary
 
-
-# Some wasm experiments
+## **Some wasm experiments**
 
 - 216 bytes wasm [animation](/wasm/demo01.html)
 
