@@ -6,14 +6,14 @@ menu = "main"
 
 Hello :smile: :wave:
 
-## **Quick connect buttons**
+### **Quick connect buttons**
 
-[![Status](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/histrio)
 [![Status](https://badgen.net/badge/icon/email?label)](mailto:rinat.sabitov@gmail.com)
+[![Status](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/histrio)
 [![Status](https://badgen.net/keybase/pgp/lukechilds)](https://keybase.io/histrio)
 [![Status](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discordapp.com/users/334224768645595137)
 
-## **Highlighted projects**
+### **Highlighted projects**
 
 [py-couchdb](https://github.com/histrio/py-couchdb) is a modern pure python CouchDB Client.
 
@@ -23,7 +23,7 @@ Hello :smile: :wave:
 
 [czfrq](https://github.com/histrio/czfrq) generates Akni deck with czech frequency dictionary
 
-## **Some wasm experiments**
+### **Some wasm experiments**
 
 - 216 bytes wasm [animation](/wasm/demo01.html)
 
