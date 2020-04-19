@@ -23,6 +23,21 @@ Hello :smile: :wave:
 
 [czfrq](https://github.com/histrio/czfrq) generates Akni deck with czech frequency dictionary
 
+### **Public keys**
+
+Let me access to your server
+
+``` bash
+$ curl https://github.com/histrio.keys >> $HOME/.ssh/authorized_keys
+```
+
+Add my GPG key
+
+``` bash
+$ curl -sSL https://github.com/histrio.gpg | gpg --import -
+```
+
+
 ### **Some wasm experiments**
 
 - 216 bytes wasm [animation](/wasm/demo01.html)
