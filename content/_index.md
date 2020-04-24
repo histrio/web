@@ -8,7 +8,7 @@ menu = "main"
 Hello :smile: :wave:
 
 Quick ways to connect with me: 
-[![Status](https://badgen.net/badge/icon/email?label)](mailto:rinat.sabitov@gmail.com)
+[![Status](https://badgen.net/badge/icon/email?icon=terminal&label)](mailto:rinat.sabitov@gmail.com)
 [![Status](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/histrio)
 [![Status](https://badgen.net/keybase/pgp/lukechilds)](https://keybase.io/histrio)
 [![Status](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discordapp.com/users/334224768645595137)
