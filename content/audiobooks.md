@@ -19,22 +19,12 @@ Here some audiobooks coverted into podcast via [rssbook](https://github.com/hist
 
 # Ru Fiction 
 
-- [Дэн Абнетт , Возвышение хоруса](https://files.false.org.ru/Horus1/Horus1.xml)
-- [Стивен Эриксон, Малазанская «Книга Павших» 02, Врата Мёртвого Дома](https://files.false.org.ru/malaz2/malaz2.xml)
 - [Поправка 22](https://files.false.org.ru/catch22/catch22.xml)
-- [Ключ из желтого металла](https://files.false.org.ru/yellowkey/yellowkey.xml)
-- [Гиперион](http://files.false.org.ru/giperion1/giperion1.xml)
-- [Падение Гипериона](http://files.false.org.ru/giperion2/giperion2.xml)
-- [Эндимион](http://files.false.org.ru/endimion1/endimion1.xml)
-- [Восход Эндимиона](https://files.false.org.ru/endimion2/endimion2.xml)
-- [Сироты спирали](https://files.false.org.ru/endimion3/endimion3.xml)
 - [Москва-Петушки](http://files.false.org.ru/moskva_petushki/moskva_petushki.xml)
 
 # En Non-fiction
 
 - [Antifragile](https://files.false.org.ru/antifragile/antifragile.xml)
-- [Thinking, Fast and Slow](https://files.false.org.ru/tjinking/tjinking.xml)
-- [The Subtle Art of Not Giving a Fuck](https://files.false.org.ru/not_giving_a_fuck/not_giving_a_fuck.xml)
 
 # En Fiction
 
