@@ -6,27 +6,22 @@ copyright = "© 2020 by Rinat Sabitov"
 
 canonifyurls = true
 paginate = 20
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-# pygmentsStyle = "b2"
-pygmentsStyle = "tango"
-# pygmentsOptions = "linenos=table"
+theme = "alageek"
 
-disqusShortname = "false-org-ru"
+#disqusShortname = "false-org-ru"
 buildDrafts = true
 enableEmoji = true
 enableRobotsTXT = false
-
-theme = "alageek"
 
 [params]
 enableRSS = true
 copyright = "© 2020 by Rinat Sabitov"
 copyrightUrl = "https://false.org.ru"
 
-latestpostcount = 2
-#telegram = "histrio"
-#github = "histrio"
+latestpostcount = 4
+
+highlightjs = true
+highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
 
 [[menu.primary]]
 identifier = "code"
