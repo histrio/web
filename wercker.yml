@@ -8,7 +8,7 @@ build:
         code: |
             $(git clone https://github.com/gkmngrgn/hugo-alageek-theme.git themes/alageek)
     - arjen/hugo-build:
-        version: "HEAD"
+        version: "0.71.0"
         theme: "alageek"
         flags: --buildDrafts=false
 
