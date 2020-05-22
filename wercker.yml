@@ -9,7 +9,7 @@ build:
             $(git clone https://github.com/gkmngrgn/hugo-alageek-theme.git themes/alageek)
     - arjen/hugo-build@2.9.1:
         theme: alageek
-        flags: --buildDrafts=true
+        flags: --buildDrafts=false
 
 
 deploy:
