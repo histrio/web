@@ -37,3 +37,6 @@ Will output all environment variables for the process
 cat /proc/30306/environ
 ALACRITTY_LOG=/tmp/Alacritty-30279.logBINARYEN=/usrBINARYEN_ROOT=/usrCOLORTERM=truecolorDBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/busDISPLAY=:0.0GTK_MODULES=canberra-gtk-moduleHG=/usr/bin/hg
 ```
+
+
+{{< public-inbox \>}}

@@ -31,3 +31,6 @@ cmap w!! w !sudo tee > /dev/null %
 ```
 
 with that you could just type `w!!`. Thats all.
+
+
+{{< public-inbox \>}}

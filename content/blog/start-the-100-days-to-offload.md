@@ -14,3 +14,5 @@ Also, I believe, that it would be a good enough way to practice English writing 
 My previous posts here are pretty crappy and contains only some code snippets. I've not decided yet, will be they rewritten as a new post, which could be considered as cheating, or just edited. Also, there is a question about how to store snippets. Right now it is built-in as a [gist](https://gist.github.com/) but maybe it will be better to move into the post as `code` block.
 
 Wish me persistance and stubbornness.
+
+{{< public-inbox \>}}

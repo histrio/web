@@ -4,3 +4,5 @@ date: {{ .Date }}
 draft: true
 ---
 
+
+{{< public-inbox \>}}

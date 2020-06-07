@@ -40,3 +40,6 @@ fn main() {
 ```
 
 So, now I have in my hands a list of most frequently used words. In movies at least. Current list available [here](/czfrq.tar.gz)
+
+
+{{< public-inbox \>}}

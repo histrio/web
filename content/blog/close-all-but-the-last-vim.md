@@ -10,3 +10,5 @@ Sometimes I want to close all windows and start from the scratch. Shortcut `:qa`
 {{< gist histrio af9287cd04894b961bb2dce96986a97c >}}
 
 You need just to add it to your vimrc file.
+
+{{< public-inbox \>}}
