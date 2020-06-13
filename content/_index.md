@@ -5,6 +5,8 @@ menu = "main"
 +++
 
 
+{{< mastodon-verification \>}}
+
 Hello :smile: :wave:
 
 Quick ways to connect with me: 
