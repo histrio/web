@@ -52,7 +52,6 @@ As a result we will have an addition field `_attachments` which will contain all
 }
 ```
 
-
 It's super easy to get and it's accessible as an simple page
 
 ```
