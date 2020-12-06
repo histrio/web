@@ -33,7 +33,7 @@ After that, we still not able to get actual updates for packages but at least up
 
 ## Epel
 
-With EPEL repositories situation is the same (no maintainable repo) but Fedora does not provide any vault-like alternative. There is still a chance to find a not fully synced repository where epel is still alive, though.
+With [EPEL repositories](https://dl.fedoraproject.org/pub/epel/6/) situation is the same (no maintainable repo) but Fedora does not provide any vault-like alternative. There is still a chance to find a not fully synced [mirror](https://admin.fedoraproject.org/mirrormanager/mirrors/EPEL) where epel is still alive, though.
 
 
 {{< public-inbox \>}}
