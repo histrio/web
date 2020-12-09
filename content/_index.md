@@ -24,15 +24,15 @@ Quick ways to connect with me:
 
 - [python-descript-ion](https://github.com/histrio/python-descript-ion) a simple library for `descript.ion` files manipulation
 
-- [czfrq](https://github.com/histrio/czfrq) generates Akni deck with czech frequency dictionary
+- [czfrq](https://github.com/histrio/czfrq) generates Akni deck with Czech frequency dictionary
 
 ### **Public keys**
 
-Let me access to your server
+If you, for some reason, want to grant me access to your server:
 
 > `$ curl https://github.com/histrio.keys >> $HOME/.ssh/authorized_keys`
 
-Add my GPG key
+If you want to send me some encrypted stuff, use my public key:
 
 > `$ curl -sSL https://github.com/histrio.gpg | gpg --import -`
 
