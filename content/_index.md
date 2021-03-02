@@ -36,9 +36,4 @@ If you want to send me some encrypted stuff, use my public key:
 
 > `$ curl -sSL https://github.com/histrio.gpg | gpg --import -`
 
-
-### **Some wasm experiments**
-
-- 216 bytes wasm [animation](/wasm/demo01.html)
-
-- 5Kb wasm [animation](/wasm/demo02.html) with `std` included
+Also I have some education in reserve-officer training department as a signaller and have a radio amateur license (CEPT NOVICE). So you could try to contact me with a mose code by calling `UB4RCF` :laughing:
