@@ -15,6 +15,16 @@ Quick ways to connect with me:
 [![Status](https://badgen.net/keybase/pgp/lukechilds)](https://keybase.io/histrio)
 [![Status](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discordapp.com/users/334224768645595137)
 
+If you, for some reason, want to grant me access to your server:
+
+> `$ curl https://github.com/histrio.keys >> $HOME/.ssh/authorized_keys`
+
+If you want to send me some encrypted stuff, use my public key:
+
+> `$ curl -sSL https://github.com/histrio.gpg | gpg --import -`
+
+Also I have some education in reserve-officer training department as a signaller and have a radio amateur license (CEPT NOVICE). So you could try to contact me with a morse code by calling `UB4RCF` :laughing:
+
 
 ### **Highlighted projects**
 
@@ -26,14 +36,5 @@ Quick ways to connect with me:
 
 - [czfrq](https://github.com/histrio/czfrq) generates Akni deck with Czech frequency dictionary
 
-### **Public keys**
+- [uchecker]https://github.com/cloudlinux/kcare-uchecker/) a simple tool to detect outdated shared libraries 
 
-If you, for some reason, want to grant me access to your server:
-
-> `$ curl https://github.com/histrio.keys >> $HOME/.ssh/authorized_keys`
-
-If you want to send me some encrypted stuff, use my public key:
-
-> `$ curl -sSL https://github.com/histrio.gpg | gpg --import -`
-
-Also I have some education in reserve-officer training department as a signaller and have a radio amateur license (CEPT NOVICE). So you could try to contact me with a mose code by calling `UB4RCF` :laughing:
