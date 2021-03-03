@@ -36,5 +36,5 @@ Also I have some education in reserve-officer training department as a signaller
 
 - [czfrq](https://github.com/histrio/czfrq) generates Akni deck with Czech frequency dictionary
 
-- [uchecker]https://github.com/cloudlinux/kcare-uchecker/) a simple tool to detect outdated shared libraries 
+- [uchecker](https://github.com/cloudlinux/kcare-uchecker/) a simple tool to detect outdated shared libraries 
 
