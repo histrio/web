@@ -23,6 +23,10 @@ If you want to send me some encrypted stuff, use my public key:
 
 > `$ curl -sSL https://github.com/histrio.gpg | gpg --import -`
 
+Or use more convinent `rage`:
+
+> rage -r age1fht3gvntpeffl65jjhdlremkl8nqe2p0ml3e2zwf0n6jd7g7lsese4hscr secret.txt > secret.txt.age
+
 Also I have some education in reserve-officer training department as a signaller and have a radio amateur license (CEPT NOVICE). So you could try to contact me with a morse code by calling `UB4RCF` :laughing:
 
 
