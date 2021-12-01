@@ -42,3 +42,7 @@ Also I have some education in reserve-officer training department as a signaller
 
 - [uchecker](https://github.com/cloudlinux/kcare-uchecker/) a simple tool to detect outdated shared libraries 
 
+- [elfget](https://github.com/histrio/elfget/) rust tool to get info from ELF file
+
+- [wasm](/wasm) some attempts to grok Wasm with Rust
+
