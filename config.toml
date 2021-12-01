@@ -2,7 +2,7 @@ baseURL = "https://false.org.ru/"
 languageCode = "en-us"
 title = "False Protagonist"
 author = "Rinat Sabitov"
-copyright = "© 2020 by Rinat Sabitov"
+copyright = "© 2022 by Rinat Sabitov"
 
 canonifyurls = true
 paginate = 20
@@ -15,10 +15,10 @@ enableRobotsTXT = false
 
 [params]
 enableRSS = true
-copyright = "© 2020 by Rinat Sabitov"
+copyright = "© 2022 by Rinat Sabitov"
 copyrightUrl = "https://false.org.ru"
 
-latestpostcount = 4
+latestpostcount = 0
 
 highlightjs = true
 highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
@@ -32,7 +32,7 @@ weight = 10
 [[menu.primary]]
 identifier = "posts"
 name = "Posts"
-url = "/blog"
+url = "https://gem.org.ru/"
 weight = 20
 
 [[menu.primary]]
