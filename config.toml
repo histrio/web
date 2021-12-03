@@ -18,7 +18,7 @@ enableRSS = true
 copyright = "© 2022 by Rinat Sabitov"
 copyrightUrl = "https://false.org.ru"
 
-latestpostcount = 0
+latestpostcount = 3
 
 highlightjs = true
 highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
@@ -32,7 +32,7 @@ weight = 10
 [[menu.primary]]
 identifier = "posts"
 name = "Posts"
-url = "https://gem.org.ru/"
+url = "/blog"
 weight = 20
 
 [[menu.primary]]
