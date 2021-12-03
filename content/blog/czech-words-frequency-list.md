@@ -6,6 +6,8 @@ date: 2020-05-27 11:53:44+00:00
 
 > I need a deck for the Anki with the most frequently accrued words in that language.
 
+<!--more-->
+
 So my mind considered that problem as a blocker to my further Czech lessons and force me to spend time on it.
 First of all, I need data, and a very convenient way to get a *lot* of Czech text was movie subtitles. Luckily it could be gathered as one big archive from [here](https://object.pouta.csc.fi/OPUS-OpenSubtitles/v2018/mono/cs.tok.gz). That file contains lines of tokens that could be easily separated.
 

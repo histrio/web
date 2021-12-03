@@ -2,9 +2,11 @@
 title: "Store Files in a CouchDB"
 date: 2020-06-19 08:34:34+00:00
 ---
- There is a very convenient way to store files inside CouchDB and be able to get them directly from it. In a simple way, an attachment is a new field in a document.
+ There is a very convenient way to store files inside CouchDB and be able to get them directly from it. 
 
-Lets say we have a document with id `e5f46d968b31e400b5db6426d000024b`.
+<!--more-->
+
+In a simple way, an attachment is a new field in a document. Lets say we have a document with id `e5f46d968b31e400b5db6426d000024b`.
 
 ```bash
 $ curl -X GET http://admin:password@127.0.0.1:5984/sandbox/e5f46d968b31e400b5db6426d000024b

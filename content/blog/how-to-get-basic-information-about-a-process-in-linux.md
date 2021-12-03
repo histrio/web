@@ -4,6 +4,8 @@ date: 2020-05-16 14:11:22+00:00
 ---
  There is a way to get information about any process (with according permissions) using filesystem operations only. You need no additional tools besides what you already have on your system. In most cases `cat` will be enough.
 
+<!--more-->
+
 Actually, for this post, we will familiarise with such files that can be displayed with `cat` and we will begin with the real simple ones
 
 `/proc/<pid>/cmdline`
