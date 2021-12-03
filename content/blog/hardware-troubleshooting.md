@@ -1,6 +1,6 @@
 ---
 title: "Hardware troubleshooting"
-date: 2021-12-02 08:53:16
+date: 2021-12-02 08:53:16.716484+00:00
 ---
  Another post to the "suffering journal". Experienced a lot of hardware fails:
 

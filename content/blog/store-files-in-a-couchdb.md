@@ -1,6 +1,6 @@
 ---
 title: "Store Files in a CouchDB"
-date: 2021-12-03 08:36:34
+date: 2020-06-19 08:34:34+00:00
 ---
  There is a very convenient way to store files inside CouchDB and be able to get them directly from it. In a simple way, an attachment is a new field in a document.
 
@@ -13,13 +13,13 @@ $ curl -X GET http://admin:password@127.0.0.1:5984/sandbox/e5f46d968b31e400b5db6
 
 and we want to attach some `index.html` to that document.
 
-We have a two ways to attach a file:
+We have two ways to attach a file:
 
 ### Attach via Fauxton
 
-There is a *Upload attachment* button on a documents page
+There is an *Upload attachment* button on a documents page
 
-[http://127.0.0.1:5984/_utils/#database/sandbox/e5f46d968b31e400b5db6426d000024b]()
+http://127.0.0.1:5984/_utils/#database/sandbox/e5f46d968b31e400b5db6426d000024b
 
 ![fauxton-attachement-1 image](//false.org.ru/img/fauxton-attachement-1.png)
 
@@ -31,7 +31,7 @@ curl -vX PUT http://127.0.0.1:5984/sandbox/e5f46d968b31e400b5db6426d000024b/inde
 
 ### Attachment structure
 
-As a result we will have an addition field `_attachments` which will contain all files that we attached. In our case it's `index.html` only.
+As a result, we will have an additional field `_attachments` which will contain all files that we attached. In our case, it's `index.html` only.
 
 ```
 {
@@ -49,7 +49,7 @@ As a result we will have an addition field `_attachments` which will contain all
 }
 ```
 
-It's super easy to get and it's accessible as an simple page
+It's super easy to get and it's accessible as a simple page
 
 ```
 curl -X GET http://admin:password@127.0.0.1:5984/sandbox/e5f46d968b31e400b5db6426d000024b/index.html

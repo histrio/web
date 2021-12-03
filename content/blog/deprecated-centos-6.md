@@ -1,6 +1,6 @@
 ---
 title: "Deprecated Centos 6"
-date: 2021-11-26 10:48:54
+date: 2020-12-06 10:47:30+00:00
 ---
  Centos 6 isn't able to get its full updates since May 10th, 2017 and there are no even Maintainance updates since November 30th, 2020. For most of us that version of Centos, released July 20th, 2011 is objectively outdated but still, a huge amount of servers are using it and there are no plans or opportunities to migrate it further.
 

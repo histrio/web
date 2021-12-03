@@ -1,6 +1,6 @@
 ---
 title: "Start of the 100 Days to Offload"
-date: 2021-11-26 10:53:33
+date: 2020-05-14 10:52:58+00:00
 ---
  So, this will be my attempt to start and proceed with #100DaysToOffload. I'm not sure that I will have enough ideas or material to make really useful content and it could happen that there will appear posts like that: just random thoughts with not much sense.
 

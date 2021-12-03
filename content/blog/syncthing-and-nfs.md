@@ -1,6 +1,6 @@
 ---
 title: "Syncthing and NFS"
-date: 2021-11-26 10:43:37
+date: 2021-11-26 10:30:07.461634631+00:00
 ---
  *TLDR: Dockerised Syncthing using NFS mounted folder is a bad idea.*
 

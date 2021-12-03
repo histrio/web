@@ -1,6 +1,6 @@
 ---
 title: "About systemd vs init.d"
-date: 2021-11-26 10:44:41
+date: 2021-05-12 11:40:18.924274395+00:00
 ---
  I have no issues with a `systemd` and have no right or arguments or authority to criticize such a huge tool and all involved human efforts. It's a tool and it does its work. 
 

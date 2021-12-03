@@ -1,6 +1,6 @@
 ---
 title: "Currency formatting"
-date: 2021-12-02 11:45:23
+date: 2017-05-17 11:44:02+00:00
 ---
  ```python
 def currency(value, group_sep=' ', decimal_sep='.'):

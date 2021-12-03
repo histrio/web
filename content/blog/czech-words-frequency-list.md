@@ -1,6 +1,6 @@
 ---
 title: "Czech Words Frequency List"
-date: 2021-12-02 11:54:15
+date: 2020-05-27 11:53:44+00:00
 ---
  I make a decision to learn the Czech language and to procrastinate I've made up a problem for myself:
 
