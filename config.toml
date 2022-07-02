@@ -23,6 +23,8 @@ latestpostcount = 3
 highlightjs = true
 highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
 
+description = "I’m a software developer. Proud father of two boys. Infrequent blogger."
+
 [[menu.primary]]
 identifier = "code"
 name = "Code"
