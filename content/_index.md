@@ -21,11 +21,13 @@ Or use more convinent `rage`:
 
 > `$ echo "hi" | rage -r "$(curl https://github.com/histrio.keys)" -a > secret.age`
 
-or use recipient `age1fht3gvntpeffl65jjhdlremkl8nqe2p0ml3e2zwf0n6jd7g7lsese4hscr`
+or use `age1fht3gvntpeffl65jjhdlremkl8nqe2p0ml3e2zwf0n6jd7g7lsese4hscr` recipient.
 
 Also I have some education in reserve-officer training department as a signaller and have a radio amateur license (CEPT NOVICE). So you could try to contact me with a morse code by calling `UB4RCF` :laughing:
 
-Here is the *unholy bunch of badges* for places where you can find me also:
+---
+
+Here are the *unholy bunch of badges* for places where you can find me also:
 
 [![Status](https://badgen.net/badge/icon/email?icon=terminal&label)](mailto:me+website@false.org.ru)
 [![Status](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/histrio)
@@ -39,6 +41,8 @@ Here is the *unholy bunch of badges* for places where you can find me also:
 [![Status](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://keybase.io/histrio)
 [![Status](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/histrio/)
 [![Status](https://badgen.net/keybase/pgp/lukechilds)](https://keyoxide.org/8A9893D4B64B480E471DBE5718839067D122293D)
+
+---
 
 
 ### **Highlighted projects**
