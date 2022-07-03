@@ -23,6 +23,10 @@ Or use more convinent `rage`:
 
 or use `age1fht3gvntpeffl65jjhdlremkl8nqe2p0ml3e2zwf0n6jd7g7lsese4hscr` recipient.
 
+Add my `Crev ID` as a trusty reviewer:
+
+> `$ cargo crev id trust IQf_sAJ3ZBNx7Hv-WofiV9TGr61osiyUHsi36sVGyOE`
+
 Also I have some education in reserve-officer training department as a signaller and have a radio amateur license (CEPT NOVICE). So you could try to contact me with a morse code by calling `UB4RCF` :laughing:
 
 ---
