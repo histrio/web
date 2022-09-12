@@ -20,7 +20,7 @@ jobs:
       - name: Download a theme
         uses: actions/checkout@v3
         with:
-          repository: 'https://github.com/gkmngrgn/hugo-alageek-theme.git'
+          repository: 'gkmngrgn/hugo-alageek-theme'
           path: themes/alageek
           submodules: true
           fetch-depth: 0
