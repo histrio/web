@@ -11,4 +11,3 @@ if __name__ == "__main__":
             cname = os.path.join(root, 'content', 'blog', slug+'.md')
             with open(cname, 'w') as cf:
                 cf.write(f'---\ntitle: "{title}"\ndate: {updated}\n---\n {content} \n\n {{{{< public-inbox \>}}}}')
-    
