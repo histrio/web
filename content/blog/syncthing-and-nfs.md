@@ -14,6 +14,4 @@ After days of troubleshooting, I was able to locate the source of the issue. It 
 
 So my current solution is a structural change. Now each node is synced with all others and with no master. Each node uses it's own local filesystem. Works like a charm. 
 
- [orig](https://gem.org.ru/syncthing-and-nfs) 
-
  {{< public-inbox \>}}

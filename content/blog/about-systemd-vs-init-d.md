@@ -9,6 +9,4 @@ For my cases, it's an over-complicated tool though. I'd prefer to use a simple a
 
 To go even further I'm considering moving my VPS to a FreeBSD. There is no tricky stuff there and it will fit my needs nicely and let me keep a simple environment at the same time. 
 
- [orig](https://gem.org.ru/about-systemd-vs-init-d) 
-
  {{< public-inbox \>}}

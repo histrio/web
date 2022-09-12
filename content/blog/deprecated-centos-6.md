@@ -34,6 +34,4 @@ After that, we are still not able to get actual updates for packages but at leas
 With [EPEL repositories](https://dl.fedoraproject.org/pub/epel/6/) situation is the same (no maintainable repo) and Fedora does provide vault-like alternative located [here](https://archives.fedoraproject.org/pub/archive/epel/). 
  
 
- [orig](https://gem.org.ru/deprecated-centos-6) 
-
  {{< public-inbox \>}}

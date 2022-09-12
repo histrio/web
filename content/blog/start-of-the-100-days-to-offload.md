@@ -14,6 +14,4 @@ My previous posts here are pretty crappy and contain only some code snippets. I'
 Wish me persistence and stubbornness.
  
 
- [orig](https://gem.org.ru/start-of-the-100-days-to-offload) 
-
  {{< public-inbox \>}}

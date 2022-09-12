@@ -14,6 +14,4 @@ $ cargo install exa bat --force
 ```
  
 
- [orig](https://gem.org.ru/how-to-fix-rust-tools-that-bind-libgit2-so) 
-
  {{< public-inbox \>}}

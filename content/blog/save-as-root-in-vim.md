@@ -30,6 +30,4 @@ cmap w!! w !sudo tee > /dev/null %
 with that, you could just type `w!!`. That's all.
  
 
- [orig](https://gem.org.ru/save-as-root-in-vim) 
-
  {{< public-inbox \>}}

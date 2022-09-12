@@ -59,6 +59,4 @@ curl -X GET http://admin:password@127.0.0.1:5984/sandbox/e5f46d968b31e400b5db642
 <html></html>
 ``` 
 
- [orig](https://gem.org.ru/store-files-in-a-couchdb) 
-
  {{< public-inbox \>}}

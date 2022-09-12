@@ -5,6 +5,4 @@ canonical: https://gem.org.ru/testovyi-post-na-drugom-iazyke
 ---
  Пробую возможность писать на двух языках 
 
- [orig](https://gem.org.ru/testovyi-post-na-drugom-iazyke) 
-
  {{< public-inbox \>}}

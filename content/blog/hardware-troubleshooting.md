@@ -13,6 +13,4 @@ It happened for a month, and I tried to replace SATA cables, disable "spoiled" d
 
 It was a power unit. No visible signs like an inflated capacitor or burn marks, though. Took a chance and bought a new PU. All problems are gone.  
 
- [orig](https://gem.org.ru/hardware-troubleshooting) 
-
  {{< public-inbox \>}}

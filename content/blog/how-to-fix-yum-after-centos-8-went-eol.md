@@ -22,6 +22,4 @@ $ curl -O https://raw.githubusercontent.com/AlmaLinux/almalinux-deploy/master/al
 $ sudo bash almalinux-deploy.sh
 ``` 
 
- [orig](https://gem.org.ru/how-to-fix-yum-after-centos-8-went-eol) 
-
  {{< public-inbox \>}}

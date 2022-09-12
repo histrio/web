@@ -39,6 +39,4 @@ As you can see in the example above we have one partition that starts on `8192` 
 $ sudo mount -o offset=4194304 backup.img /mnt/backup
 ``` 
 
- [orig](https://gem.org.ru/backup-and-restore-your-sd-card) 
-
  {{< public-inbox \>}}

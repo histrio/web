@@ -53,6 +53,4 @@ Next step will be [Anki](https://ankiweb.net/) deck generation.
 
  
 
- [orig](https://gem.org.ru/czech-words-frequency-list) 
-
  {{< public-inbox \>}}

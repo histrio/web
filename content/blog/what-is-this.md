@@ -9,6 +9,4 @@ Did not write a line of code for a week. And it didn't happen since school, I th
 
  
 
- [orig](https://gem.org.ru/what-is-this) 
-
  {{< public-inbox \>}}

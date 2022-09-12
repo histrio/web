@@ -37,6 +37,4 @@ $ cat /proc/30306/environ
 ALACRITTY_LOG=/tmp/Alacritty-30279.logBINARYEN=/usrBINARYEN_ROOT=/usrCOLORTERM=truecolorDBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/busDISPLAY=:0.0GTK_MODULES=canberra-gtk-moduleHG=/usr/bin/hg
 ``` 
 
- [orig](https://gem.org.ru/how-to-get-basic-information-about-a-process-in-linux) 
-
  {{< public-inbox \>}}

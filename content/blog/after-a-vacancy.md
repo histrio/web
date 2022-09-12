@@ -7,6 +7,4 @@ canonical: https://gem.org.ru/after-a-vacancy
 
 That place is a nice tool for writing by the way. It could be a neat tool to draft post ideas and tidy up formatting.  But such short posts should not exist as a blog post and it fits tweet format which is not my intention.  
 
- [orig](https://gem.org.ru/after-a-vacancy) 
-
  {{< public-inbox \>}}
