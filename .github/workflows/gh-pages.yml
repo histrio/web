@@ -38,6 +38,6 @@ jobs:
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
-          cname: github.com
+          cname: false.org.ru
           external_repository: histrio/histrio.github.io
           publish_branch: master
