@@ -1,6 +1,7 @@
 ---
 title: "Syncthing and NFS"
 date: 2021-11-26 10:30:07.461634631+00:00
+canonical: https://gem.org.ru/syncthing-and-nfs
 ---
  *TLDR: Dockerised Syncthing using NFS mounted folder is a bad idea.*
 
@@ -12,5 +13,7 @@ First of all, I blamed the android app and excluded it from the flow. I'd had no
 After days of troubleshooting, I was able to locate the source of the issue. It was my main node setup. The Syncthing process in the node was dockerized and the mounted sync folder was also an NFS mount. Changing it to SMB did no effect.
 
 So my current solution is a structural change. Now each node is synced with all others and with no master. Each node uses it's own local filesystem. Works like a charm. 
+
+ [orig](https://gem.org.ru/syncthing-and-nfs) 
 
  {{< public-inbox \>}}

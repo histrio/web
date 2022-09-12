@@ -1,6 +1,7 @@
 ---
 title: "Currency formatting"
 date: 2017-05-17 11:44:02+00:00
+canonical: https://gem.org.ru/currency-formatting
 ---
  ```python
 def currency(value, group_sep=' ', decimal_sep='.'):
@@ -23,5 +24,7 @@ def currency(value, group_sep=' ', decimal_sep='.'):
 ```
 
 [Gist](https://gist.github.com/histrio/ca0885dd8755ef479917172606c442e8#file-currency_formating-py) 
+
+ [orig](https://gem.org.ru/currency-formatting) 
 
  {{< public-inbox \>}}

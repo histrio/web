@@ -1,6 +1,7 @@
 ---
 title: "Czech Words Frequency List"
 date: 2020-05-27 11:53:44+00:00
+canonical: https://gem.org.ru/czech-words-frequency-list
 ---
  I make a decision to learn the Czech language and to procrastinate I've made up a problem for myself:
 
@@ -51,5 +52,7 @@ Next step will be [Anki](https://ankiweb.net/) deck generation.
 
 
  
+
+ [orig](https://gem.org.ru/czech-words-frequency-list) 
 
  {{< public-inbox \>}}

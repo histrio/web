@@ -1,6 +1,7 @@
 ---
 title: "Backup and restore your SD card"
-date: 2022-09-08 13:29:36.574610625+00:00
+date: 2022-09-09 13:29:36+00:00
+canonical: https://gem.org.ru/backup-and-restore-your-sd-card
 ---
  ## Backup
 
@@ -37,5 +38,7 @@ As you can see in the example above we have one partition that starts on `8192` 
 ```
 $ sudo mount -o offset=4194304 backup.img /mnt/backup
 ``` 
+
+ [orig](https://gem.org.ru/backup-and-restore-your-sd-card) 
 
  {{< public-inbox \>}}

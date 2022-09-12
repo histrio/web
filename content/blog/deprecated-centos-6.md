@@ -1,6 +1,7 @@
 ---
 title: "How to fix yum after CentOS 6 went EOL"
 date: 2020-12-06 10:47:30+00:00
+canonical: https://gem.org.ru/deprecated-centos-6
 ---
  Centos 6 isn't able to get its full updates since May 10th, 2017 and there are no even Maintainance updates since November 30th, 2020. For most of us that version of Centos, released July 20th, 2011 is objectively outdated but still, a huge amount of servers are using it and there are no plans or opportunities to migrate it further.
 
@@ -32,5 +33,7 @@ After that, we are still not able to get actual updates for packages but at leas
 
 With [EPEL repositories](https://dl.fedoraproject.org/pub/epel/6/) situation is the same (no maintainable repo) and Fedora does provide vault-like alternative located [here](https://archives.fedoraproject.org/pub/archive/epel/). 
  
+
+ [orig](https://gem.org.ru/deprecated-centos-6) 
 
  {{< public-inbox \>}}

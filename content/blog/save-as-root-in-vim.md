@@ -1,6 +1,7 @@
 ---
 title: "Save as root in vim"
 date: 2020-06-19 08:46:57+00:00
+canonical: https://gem.org.ru/save-as-root-in-vim
 ---
  *TLDR `:w !sudo tee %`*
 
@@ -28,5 +29,7 @@ cmap w!! w !sudo tee > /dev/null %
 
 with that, you could just type `w!!`. That's all.
  
+
+ [orig](https://gem.org.ru/save-as-root-in-vim) 
 
  {{< public-inbox \>}}

@@ -1,6 +1,7 @@
 ---
 title: "Store Files in a CouchDB"
 date: 2020-06-19 08:34:34+00:00
+canonical: https://gem.org.ru/store-files-in-a-couchdb
 ---
  There is a very convenient way to store files inside CouchDB and be able to get them directly from it. 
 
@@ -57,5 +58,7 @@ It's super easy to get and it's accessible as a simple page
 curl -X GET http://admin:password@127.0.0.1:5984/sandbox/e5f46d968b31e400b5db6426d000024b/index.html
 <html></html>
 ``` 
+
+ [orig](https://gem.org.ru/store-files-in-a-couchdb) 
 
  {{< public-inbox \>}}

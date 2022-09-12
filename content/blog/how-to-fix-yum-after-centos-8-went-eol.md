@@ -1,6 +1,7 @@
 ---
 title: "How to fix yum after CentOS 8 went EOL "
 date: 2022-07-01 07:57:56.971026738+00:00
+canonical: https://gem.org.ru/how-to-fix-yum-after-centos-8-went-eol
 ---
  > Error: Failed to download metadata for repo 'appstream': Cannot prepare internal mirrorlist: No URLs in mirrorlist
 
@@ -20,5 +21,7 @@ $ sudo dnf -y upgrade
 $ curl -O https://raw.githubusercontent.com/AlmaLinux/almalinux-deploy/master/almalinux-deploy.sh
 $ sudo bash almalinux-deploy.sh
 ``` 
+
+ [orig](https://gem.org.ru/how-to-fix-yum-after-centos-8-went-eol) 
 
  {{< public-inbox \>}}

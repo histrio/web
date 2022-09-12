@@ -1,6 +1,7 @@
 ---
 title: "Hardware troubleshooting"
 date: 2021-12-02 08:53:16.716484+00:00
+canonical: https://gem.org.ru/hardware-troubleshooting
 ---
  Another post to the "suffering journal". Experienced a lot of hardware fails:
 
@@ -11,5 +12,7 @@ date: 2021-12-02 08:53:16.716484+00:00
 It happened for a month, and I tried to replace SATA cables, disable "spoiled" disks, do memory checks, use the rest of the voodoo too. Started scaring myself with a shopping list if the motherboard broke. 
 
 It was a power unit. No visible signs like an inflated capacitor or burn marks, though. Took a chance and bought a new PU. All problems are gone.  
+
+ [orig](https://gem.org.ru/hardware-troubleshooting) 
 
  {{< public-inbox \>}}

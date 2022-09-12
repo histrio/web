@@ -1,6 +1,7 @@
 ---
 title: "Start of the 100 Days to Offload"
 date: 2020-05-14 10:52:58+00:00
+canonical: https://gem.org.ru/start-of-the-100-days-to-offload
 ---
  So, this will be my attempt to start and proceed with #100DaysToOffload. I'm not sure that I will have enough ideas or material to make really useful content and it could happen that there will appear posts like that: just random thoughts with not much sense.
 
@@ -12,5 +13,7 @@ My previous posts here are pretty crappy and contain only some code snippets. I'
 
 Wish me persistence and stubbornness.
  
+
+ [orig](https://gem.org.ru/start-of-the-100-days-to-offload) 
 
  {{< public-inbox \>}}
