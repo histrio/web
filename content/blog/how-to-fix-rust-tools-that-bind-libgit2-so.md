@@ -8,10 +8,17 @@ canonical: https://gem.org.ru/how-to-fix-rust-tools-that-bind-libgit2-so
 $ bat --version                                                                ~
 bat: error while loading shared libraries: libgit2.so.1.4: cannot open shared object file: No such file or directory
 ```
+Later I've got 
+```
+.local/share/cargo/bin/cargo-install-update: error while loading shared libraries: libssl.so.1.1: cannot open shared object file: No such file or directory
+```
+
 The fix was easy: rebuild a binary
 ```
 $ cargo install exa bat --force
 ```
+
+That will rebuild a binary with new linking with current libraies
  
 
  {{< public-inbox \>}}
