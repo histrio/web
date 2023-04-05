@@ -1,5 +1,5 @@
 ---
-title: "Syncthing reappearing conflicts with the "receive only" node"
+title: "Syncthing reappearing conflicts with the 'receive only' node"
 date: 2023-04-05 07:14:07.788692567+00:00
 canonical: https://gem.org.ru/syncthing-reappearing-conflicts-with-the-receive-only-node
 ---
