@@ -8,7 +8,7 @@ canonical: https://gem.org.ru/how-to-fix-yum-after-centos-8-went-eol
 So now we have the same issues that we had for Centos 6. And therefore we can fix it like it was described in [previous post](/deprecated-centos-6).
 
 ```
-$ sed -i 's,baseurl=http://vault.centos.org,baseurl=http://vault.epel.cloud|g' /etc/yum.repos.d/CentOS-Linux-*
+$ sed -i 's,baseurl=http://vault.centos.org,baseurl=http://vault.epel.cloud,g' /etc/yum.repos.d/CentOS-Linux-*
 ```
 
 <!--more-->

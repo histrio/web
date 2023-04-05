@@ -25,7 +25,7 @@ That will obviously fail. The second request will get the same IP which is not O
 $ python script.py 
 OK:  79.143.111.139
 Traceback (most recent call last):
-  File "/home/rinat/test.py", line 8, in <module>
+  File "script.py", line 8, in <module>
     assert previous != current, f"Got the same {current} twice in a row"
 AssertionError: Got the same 79.143.111.139 twice in a row
 ```
