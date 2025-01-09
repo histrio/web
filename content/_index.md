@@ -5,7 +5,10 @@ menu = "main"
 +++
 {{< mastodon-verification \>}}
 
-Hello :smile: :wave:
+
+Hello :smile: :wave: I'm Rinat 
+
+> `/ree-NAHT/ (like "ree" as in "reef" and "naht" rhyming with "not")`
 
 Quick ways to connect with me would be an [email](mailto:me+website@false.org.ru) or [telegram](https://t.me/histrio).
 
