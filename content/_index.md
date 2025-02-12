@@ -46,6 +46,7 @@ Here are the *unholy bunch of badges* for places where you can find me also:
 
 ### **Highlighted projects**
 
+- [GeoCuvar](https://geocuvar.pages.dev/) for tracking OpenStreetMap changes in Montenegro
 
 - [py-couchdb](https://github.com/histrio/py-couchdb) is a modern pure python CouchDB Client.
 
