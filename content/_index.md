@@ -55,8 +55,7 @@ Here are the *unholy bunch of badges* for places where you can find me also:
 
 - [python-descript-ion](https://github.com/histrio/python-descript-ion) a simple library for `descript.ion` files manipulation
 
-- [czfrq](https://github.com/histrio/czfrq) generates Akni deck with Czech frequency dictionary
-
+- [frq](https://github.com/histrio/frq) generate anki deck from frequency word list
 
 - [elfget](https://github.com/histrio/elfget/) rust tool to get info from ELF file
 
