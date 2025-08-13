@@ -36,10 +36,9 @@ Here are the *unholy bunch of badges* for places where you can find me also:
 [![RSS](https://badgen.net/badge/icon/rss?icon=rss&label)](https://false.org.ru/blog/index.xml)
 [![Github](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/histrio/)
 [![Goodreads](https://badgen.net/badge/icon/goodreads?icon=goodreads&label)](https://www.goodreads.com/histrio)
-[![Keybase](https://badgen.net/badge/icon/keybase?icon=keybase&label)](https://keybase.io/histrio)
 [![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://keybase.io/histrio)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/histrio/)
-[![Keyoxide](https://badgen.net/keybase/pgp/lukechilds)](https://keyoxide.org/8A9893D4B64B480E471DBE5718839067D122293D)
+[![Keyoxide](https://badgen.net/keybase/pgp/lukechilds)](https://keyoxide.org/aspe:keyoxide.org:6Y7KI4OG4YF5X3X5ASKPTXTRJ4)
 
 ---
 
