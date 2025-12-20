@@ -5,13 +5,15 @@ author = "Rinat Sabitov"
 copyright = "© 2022 by Rinat Sabitov"
 
 canonifyurls = true
-paginate = 20
 theme = "alageek"
 
 #disqusShortname = "false-org-ru"
 buildDrafts = true
 enableEmoji = true
 enableRobotsTXT = false
+
+[pagination]
+pagerSize = 20
 
 [params]
 enableRSS = true
